@@ -5,34 +5,35 @@ Transform LRC to JSON data
 
 ##LRC:
 
-[ti:Let's Twist Again]
-[ar:Chubby Checker oppure  Beatles, The]
-[au:Written by Kal Mann / Dave Appell, 1961]
-[al:Hits Of The 60's - Vol. 2 – Oldies]
+    [ti:Let's Twist Again]
+    [ar:Chubby Checker oppure  Beatles, The]
+    [au:Written by Kal Mann / Dave Appell, 1961]
+    [al:Hits Of The 60's - Vol. 2 – Oldies]
 
-[00:12.00]Naku Penda Piya-Naku Taka Piya-Mpenziwe
-[00:15.30]Some more lyrics ...
-...
+    [00:12.00]Naku Penda Piya-Naku Taka Piya-Mpenziwe
+    [00:15.30]Some more lyrics ...
+    ...
 
 ##JSON:
-{
-    title: 'Let's Twist Again',
-    artist: 'Chubby Checker oppure  Beatles, The',
-    author: 'Written by Kal Mann / Dave Appell, 1961',
-    album: 'Hits Of The 60's - Vol. 2 – Oldies',
-    by: 'LRCtransformer',
-    version: '0.0.1',
-    lyrics: [{
-        m: 0,
-        s: 12,
-        x: 0,
-        content: 'Naku Penda Piya-Naku Taka Piya-Mpenziwe'
-    },
+
     {
-        m: 0,
-        s: 15,
-        x: 30,
-        content: 'Some more lyrics ...'
-    },
-    ...
-}
+        title: 'Let's Twist Again',
+        artist: 'Chubby Checker oppure  Beatles, The',
+        author: 'Written by Kal Mann / Dave Appell, 1961',
+        album: 'Hits Of The 60's - Vol. 2 – Oldies',
+        by: 'LRCtransformer',
+        version: '0.0.1',
+        lyrics: [{
+            m: 0,
+            s: 12,
+            x: 0,
+            content: 'Naku Penda Piya-Naku Taka Piya-Mpenziwe'
+        },
+        {
+            m: 0,
+            s: 15,
+            x: 30,
+            content: 'Some more lyrics ...'
+        },
+        ...
+    }
