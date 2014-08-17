@@ -1,0 +1,21 @@
+{
+  "name": "lrc.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ChenTsuLin/lrc.js",
+  "authors": [
+    "Leo Chen-Tsu_Lin <lin19890808@gmail.com>"
+  ],
+  "description": "lrc",
+  "main": "lrc.js",
+  "keywords": [
+    "lrc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

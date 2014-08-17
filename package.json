@@ -1,0 +1,29 @@
+{
+  "name": "lrc.js",
+  "version": "0.0.1",
+  "description": "lrc",
+  "main": "lrc.js",
+  "authors": [
+    "Leo Chen-Tsu_Lin <lin19890808@gmail.com>"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChenTsuLin/lrc.js.git"
+  },
+  "keywords": [
+    "lrc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenTsuLin/lrc.js/issues"
+  },
+  "homepage": "https://github.com/ChenTsuLin/lrc.js",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  }
+}
