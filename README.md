@@ -1,9 +1,11 @@
-LRCtransformer
+lrc-format
 ==============
 
-Transform LRC to JSON data
+##
 
-##LRC:
+In Progress
+
+## LRC:
 
     [ti:Let's Twist Again]
     [ar:Chubby Checker oppure  Beatles, The]
@@ -14,7 +16,7 @@ Transform LRC to JSON data
     [00:15.30]Some more lyrics ...
     ...
 
-##JSON:
+## JSON:
 
     {
         title: 'Let's Twist Again',
@@ -27,13 +29,13 @@ Transform LRC to JSON data
             m: 0,
             s: 12,
             x: 0,
-            content: 'Naku Penda Piya-Naku Taka Piya-Mpenziwe'
+            text: 'Naku Penda Piya-Naku Taka Piya-Mpenziwe'
         },
         {
             m: 0,
             s: 15,
             x: 30,
-            content: 'Some more lyrics ...'
+            text: 'Some more lyrics ...'
         },
         ...
     }
