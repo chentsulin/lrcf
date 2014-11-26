@@ -25,5 +25,8 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "is-html": "^1.0.0"
   }
 }
