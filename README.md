@@ -3,7 +3,7 @@ lrc-format
 
 ##
 
-In Progress
+WIP
 
 ## LRC:
 

@@ -1,8 +1,7 @@
 {
-  "name": "lrc.js",
+  "name": "lrc-format",
   "version": "0.0.1",
   "description": "lrc",
-  "main": "lrc.js",
   "authors": [
     "Leo Chen-Tsu_Lin <lin19890808@gmail.com>"
   ],
@@ -27,6 +26,7 @@
     "chai": "^1.9.1"
   },
   "dependencies": {
-    "is-html": "^1.0.0"
+    "is-html": "^1.0.0",
+    "is-lrc": "^0.1.1"
   }
 }
