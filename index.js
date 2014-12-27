@@ -1,1 +1,1 @@
-module.exports = require('./lib/lrc-format');
+module.exports = require('./lib/lrcf');
