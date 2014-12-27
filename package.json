@@ -1,6 +1,6 @@
 {
-  "name": "lrc-format",
-  "version": "0.0.1",
+  "name": "lrcf",
+  "version": "0.1.0",
   "description": "lrc",
   "authors": [
     "Leo Chen-Tsu_Lin <lin19890808@gmail.com>"
@@ -10,17 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChenTsuLin/lrc.js.git"
+    "url": "https://github.com/chentsulin/lrcf.git"
   },
   "keywords": [
-    "lrc"
+    "lrc",
+    "format",
+    "parse",
+    "render"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChenTsuLin/lrc.js/issues"
+    "url": "https://github.com/chentsulin/lrcf/issues"
   },
-  "homepage": "https://github.com/ChenTsuLin/lrc.js",
+  "homepage": "https://github.com/chentsulin/lrcf",
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1"
