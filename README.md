@@ -1,9 +1,9 @@
-lrc-format
+lrc
 ==============
 
 ##
 
-WIP
+LRC format transform
 
 ## LRC:
 
@@ -19,23 +19,23 @@ WIP
 ## JSON:
 
     {
-        title: 'Let's Twist Again',
-        artist: 'Chubby Checker oppure  Beatles, The',
-        author: 'Written by Kal Mann / Dave Appell, 1961',
-        album: 'Hits Of The 60's - Vol. 2 – Oldies',
-        by: 'LRCtransformer',
-        version: '0.0.1',
-        lyrics: [{
-            m: 0,
-            s: 12,
-            x: 0,
-            text: 'Naku Penda Piya-Naku Taka Piya-Mpenziwe'
+        "title": "Let's Twist Again",
+        "artist": "Chubby Checker oppure  Beatles, The",
+        "author": "Written by Kal Mann / Dave Appell, 1961",
+        "album": "Hits Of The 60's - Vol. 2 – Oldies",
+        "by": "lrcf",
+        "version": "0.0.1",
+        "lyrics": [{
+            "m": 0,
+            "s": 12,
+            "x": 0,
+            "text": "Naku Penda Piya-Naku Taka Piya-Mpenziwe"
         },
         {
-            m: 0,
-            s: 15,
-            x: 30,
-            text: 'Some more lyrics ...'
+            "m": 0,
+            "s": 15,
+            "x": 30,
+            "text": "Some more lyrics ..."
         },
         ...
     }
