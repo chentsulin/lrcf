@@ -34,7 +34,7 @@ LRC format transform
         	"s": 12,
         	"x": 0
         },
-        "end: {
+        "end": {
         	"m": 0,
         	"s": 15,
         	"x": 30
