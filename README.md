@@ -53,6 +53,6 @@ LRC format transform
         	"x": 0
         },
         "text": "Some more lyrics ..."
-    }
+    }]
 }
 ```
