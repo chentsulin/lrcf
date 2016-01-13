@@ -29,17 +29,30 @@ LRC format transform
     "by": "lrcf",
     "version": "0.0.1",
     "lyrics": [{
-        "m": 0,
-        "s": 12,
-        "x": 0,
+        "start": {
+        	"m": 0,
+        	"s": 12,
+        	"x": 0
+        },
+        "end: {
+        	"m": 0,
+        	"s": 15,
+        	"x": 30
+        },
         "text": "Naku Penda Piya-Naku Taka Piya-Mpenziwe"
     },
     {
-        "m": 0,
-        "s": 15,
-        "x": 30,
+        "start": {
+        	"m": 0,
+        	"s": 15,
+        	"x": 30
+        },
+        "end": {
+        	"m": 0,
+        	"s": 19,
+        	"x": 0
+        },
         "text": "Some more lyrics ..."
-    },
-    ...
+    }
 }
 ```
